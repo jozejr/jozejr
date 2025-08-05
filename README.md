@@ -1,16 +1,23 @@
-## Hi there 👋
+<a href="https://linkedin.com/in/gisele-sena-medeiros-4579bb268/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<br/>
+<table><tr><td valign="top" width="50%">
 
-<!--
-**jozejr/jozejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 Estudante de engenharia de controle e automação no Instituto Federal de São Paulo.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Atualmente capaz de me comunicar em português, inglês e espanhol. Aprendendo alemão e mandarim.   
+
+
+ Procuro oportunidades para solidificar meus conhecimentos e mostrar meu talento.
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/31/d2/16/31d2164c54326b7fa63f8b775757754e.gif" align="center" style="width: 100%" />
+</div>
+
+
+</td></tr></table>
