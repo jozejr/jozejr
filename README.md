@@ -15,7 +15,7 @@
 💼 Procuro oportunidades para solidificar meus conhecimentos e mostrar meu talento.   
 
 
-🎮 Ex jogador profissional de League of Legends, oque me permitiu viver fora do Brasil.
+🎮 Ex jogador profissional de League of Legends, o que me permitiu viver fora do Brasil.
 
 
 </td><td valign="top" width="50%">
